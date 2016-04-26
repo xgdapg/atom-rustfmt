@@ -1,20 +1,19 @@
 {
   "name": "rustfmt",
   "main": "./lib/rustfmt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Format rust source code with rustfmt",
   "keywords": [
-      "rust",
-      "fmt",
-      "rustfmt"
+    "rust",
+    "fmt",
+    "rustfmt"
   ],
   "repository": "https://github.com/xgdapg/atom-rustfmt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "package-deps": [
     "language-rust"
   ]
