@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor[data-grammar~=\"rust\"]": [
+      {
+        "label": "Format with rustfmt",
+        "command": "rustfmt:format"
+      }
+    ]
+  }
+}
